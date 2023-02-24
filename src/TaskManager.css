@@ -1,0 +1,14 @@
+h2{
+    color: tomato;
+    background-color: ;
+    text-align: center;
+    padding: 4px 2px;
+    border-radius: 5px;
+    border: 2px solid tomato;
+}
+section{
+    width: auto;
+    background: linear-gradient(to right, #605C3C, #3C3B3F);
+    height: 500px;
+    margin-top: 15px;
+}

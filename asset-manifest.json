@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reduxjs-DragDrop-App/static/css/main.ab7cbbdf.css",
+    "main.js": "/reduxjs-DragDrop-App/static/js/main.583739a5.js",
+    "index.html": "/reduxjs-DragDrop-App/index.html",
+    "main.ab7cbbdf.css.map": "/reduxjs-DragDrop-App/static/css/main.ab7cbbdf.css.map",
+    "main.583739a5.js.map": "/reduxjs-DragDrop-App/static/js/main.583739a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab7cbbdf.css",
+    "static/js/main.583739a5.js"
+  ]
+}
